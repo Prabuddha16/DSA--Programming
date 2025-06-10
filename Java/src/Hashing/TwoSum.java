@@ -1,9 +1,9 @@
+package Hashing;
+import java.util.*;
+
 // https://leetcode.com/problems/two-sum
 // Time Complexity: O(n)
 // Space Complexity: O(n)
-package Hashing;
-import java.util.HashMap;
-import java.util.Map;
 
 public class TwoSum {
     public static int[] findTwoSum(int[] nums, int target) {
